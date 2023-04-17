@@ -1,0 +1,23 @@
+body{
+    /* background: url("https://i0.wp.com/www.picgifs.com/wallpapers/wallpapers/stars/wallpapers-stars-782404.gif") ;  */
+    background: url("./rick-and-morty.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    
+   
+}
+
+ 
+#inputbuscar{
+    background-color: transparent;
+    box-shadow:  3px 3px 3px white;
+}
+
+#Regresar{
+    width: 10rem;
+}
+
+#Siguiente{
+    width: 10rem;
+}
